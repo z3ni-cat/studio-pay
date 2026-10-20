@@ -1,0 +1,7 @@
+# tidak pernah commit kredensial/kunci
+*.env
+config.json
+*key*.txt
+*.key
+secure/
+.DS_Store
